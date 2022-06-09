@@ -19,7 +19,7 @@ This folder contains csv files that are used in Step1_Preprocessing.ipynbs to ex
 
 **"InceptionResNetV2" folder**
 
-This folder contains 3 sub-folders (i.e. \model, \modelWeight, and \pic). Mainly, they are used for saving the files generated during the training process. You will also find the pre-trained model in the "\model" subfolder here.
+This folder contains 3 sub-folders (i.e. \model, \modelWeight, and \pic). Mainly, they are used for saving the files generated during the training process. You can also download the pre-trained model from the data repository (https://osf.io/42pzw/?view_only=ca8fdce039af4770aa2e1962dd2887e6) and save the file in the "\model" subfolder so that you don't need to rerun the training process.
 
 ## Authors
 Authors: Amber Charoen, Averill Guo, Panisara Fangsaard, Supakorn Taweechainaruemitr, Nuwee Wiwatwattana, Theekapun Charoenpong, and Harlan G Rich
