@@ -1,4 +1,4 @@
-# Brown Gastrotnetology Video Capsule Endoscopy Dataset
+# Rhode Island Gastrotnetology Video Capsule Endoscopy Dataset
 The project files in this folder are used to perform technical validation as a part of manuscript submitted to "Scientific Data".
 
 ## Files and folders
